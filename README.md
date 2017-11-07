@@ -30,6 +30,8 @@ Intent here is to generate snippets of code and how to's.
 ###Education
 [Google Class : Learn Tensor Flow and Deep learning without a PHD](https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd)
 
+### Data Sets 
+[Public Data Sets](https://github.com/caesar0301/awesome-public-datasets#complex-networks)
 ### Links to read
 <ul>
   <li>https://mapr.com/blog/demystifying-ai-ml-dl/</li>
